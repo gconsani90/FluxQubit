@@ -6,5 +6,7 @@ Annealing applications.
 The codes define two class objects, FluxQubit, representing a individual connected superconducting circuit, and QubitsInteract, which can be used for coupling
 different FluxQubit objects with physical interactions (either capacitive or inductive).
 
+Two example files are also included.
+
 The numerical approach is based on the work by A. J. Kerman, “Efficient numerical simulation of complex Josephson quantum circuits”. In: arXiv preprint
 arXiv:2010.14929 (2020).
